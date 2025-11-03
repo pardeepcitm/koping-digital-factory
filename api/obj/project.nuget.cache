@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMLHsZmfvnE=",
+  "success": true,
+  "projectFilePath": "/Users/pardeep/Documents/Pardeep/Code/koping-digital-factory/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/pardeep/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/Users/pardeep/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
